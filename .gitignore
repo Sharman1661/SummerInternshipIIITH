@@ -1,0 +1,12 @@
+# Ignore the 1800 extracted frames to keep GitHub clean
+frames/
+seq_*.png
+
+# Ignore large video files (keep them local)
+*.webm
+*.mp4
+# But allow the final compressed output for grading
+!output/final_video.mp4
+
+# Mac system files
+.DS_Store
