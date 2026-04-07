@@ -10,3 +10,7 @@ seq_*.png
 
 # Mac system files
 .DS_Store
+
+.venv/
+__pycache__/
+*.pyc
