@@ -12,5 +12,6 @@ seq_*.png
 .DS_Store
 
 .venv/
+.virtualenv/
 __pycache__/
 *.pyc
