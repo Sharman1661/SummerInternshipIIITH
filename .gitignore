@@ -15,3 +15,8 @@ seq_*.png
 .virtualenv/
 __pycache__/
 *.pyc
+
+Week2.1/detected_frames/
+seq_*.jpg
+
+!Week2.1/final_vid.mp4
