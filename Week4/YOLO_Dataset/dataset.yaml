@@ -1,0 +1,14 @@
+path: /Users/Sharman/Documents/IIITH_Intern/Week4/YOLO_Dataset  
+
+# Relative paths to your image folders
+train: images/train
+val: images/val
+test: Week4/test  
+
+# Number of classes
+nc: 3
+
+names:
+  0: Bus
+  1: Car
+  2: Truck
